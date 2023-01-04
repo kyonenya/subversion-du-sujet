@@ -1,5 +1,5 @@
 - **[ジャック・ラカン「フロイトの無意識における主体の転覆と欲望の弁証法」（『エクリ』所収）の抄訳](https://github.com/kyonenya/subversion-du-sujet/blob/main/E821–827.md)**
-	- 去勢と大文字の〈他者〉の享楽に関する箇所（E821–827）の部分訳
+	- 論文末尾、去勢と大文字の〈他者〉の享楽に関する箇所（E821–827）の部分訳
 	- 「最後に置かれている去勢に関する題材は1966年に——言い換えればセミネール13巻の後に——加えられた可能性がきわめて高い」（ブルース・フィンク『「エクリ」を読む』155頁, 上尾真道・小倉拓也・渋谷亮訳, 人文書院, 2015年）
 - Jacques Lacan (1966) « Subversion du sujet et dialectique du desir dans l'inconscient freudien », *Écrits*, Éditions de Seuil, pp. 793–827, 1966. の抄訳
     - ただし、節分けないし節題は訳者による
