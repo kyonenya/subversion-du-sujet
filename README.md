@@ -1,8 +1,9 @@
-- ジャック・ラカン「フロイトの無意識における主体の転覆と欲望の弁証法」（『エクリ』所収）の部分訳（E821–E827）
+- [ジャック・ラカン「フロイトの無意識における主体の転覆と欲望の弁証法」（『エクリ』所収）の日本語訳](https://github.com/kyonenya/subversion-du-sujet/blob/main/E821–827.md)
+	- 去勢と大文字の〈他者〉の享楽に関する箇所（E821–827）の部分訳
 	- 「最後に置かれている去勢に関する題材は1966年に——言い換えればセミネール13巻の後に——加えられた可能性がきわめて高い」（ブルース・フィンク『「エクリ」を読む』155頁、人文書院）
 - Jacques Lacan (1966) « Subversion du sujet et dialectique du desir dans l'inconscient freudien », *Écrits*, Éditions de Seuil, pp. 793–827, 1966. の抄訳
     - ブルース・フィンクによる英訳（*Écrits: the first complete edition in English*, translated by Bruce Fink, WW Norton, 2006.）を適宜参照した
 - 訳出に際して以下の既訳を参照した：[ラカン「主体の転覆」翻訳６: 痴円房日乗](http://hiroshikaquail.cocolog-nifty.com/blog/2016/07/post-ecf9.html)
 - 参考リンク
-	- E794–E819の訳：[フロイトの無意識における主体の転覆と欲望の弁証法 - à la lettre](https://psychanalyse.hatenablog.com/entry/20041122/p1)
+	- E794–819の部分訳：[フロイトの無意識における主体の転覆と欲望の弁証法 - à la lettre](https://psychanalyse.hatenablog.com/entry/20041122/p1)
 	- アルキビアデスとソクラテスについて：[ジャック・ラカン『精神分析の核心的諸問題』（セミネール12巻）第17講の部分訳](https://gist.github.com/kyonenya/57766c9d812e761a6f29e7c670175704)
