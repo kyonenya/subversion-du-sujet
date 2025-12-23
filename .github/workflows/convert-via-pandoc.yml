@@ -28,8 +28,6 @@ jobs:
         with:
           args: >-
             -s
-            --toc
-            --toc-depth=4
             --output=dist/${{ github.event.repository.name }}.docx
             --reference-doc=${{ env.reference_file }}
             ${{ steps.set_variables.outputs.src_files }}
